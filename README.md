@@ -3,6 +3,10 @@ Projeto de Business Intelligence para análise de vendas e logística utilizando
 
 Este projeto consiste em uma solução de Business Intelligence, desenvolvida para analisar o faturamento e a eficiência logística de uma operação de e-commerce. O objetivo foi transformar dados brutos armazenados em um banco de dados MySQL em insights estratégicos que permitam a tomada de decisão rápida sobre faturamento e logsítica.
 
+<img width="30%" height="780" alt="image" src="https://github.com/user-attachments/assets/cc8f53c1-55ba-4dad-8a56-7c1c65c90476" />
+<img width="30%" height="782" alt="image" src="https://github.com/user-attachments/assets/7c8d3aed-872a-4cbc-9c5c-668ef295925c" />
+<img width="30%" height="780" alt="image" src="https://github.com/user-attachments/assets/dfa2d107-1549-4b5b-90af-29d8ffa2714f" />
+
     Tecnologias Utilizadas
 Banco de Dados: MySQL (Criação de Views para ETL).
 
